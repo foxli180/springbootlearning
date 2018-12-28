@@ -1,4 +1,4 @@
-package com.frankoley.reservations;
+package com.frankmoley.reservations;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
