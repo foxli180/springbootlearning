@@ -1,4 +1,4 @@
-package com.frankmoley.business.domain;
+package com.frankmoley.landon.business.domain;
 
 import java.util.Date;
 
